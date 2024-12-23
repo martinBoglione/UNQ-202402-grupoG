@@ -10,10 +10,10 @@
 
 ### Grupo C
 
-|Nombre|Legajo|GitHub|
-|---|---|---|
-|Bolgione Martín|34488|@martinBoglione|
-|Malsam Leandro|43779|@leatex|
+|Nombre|GitHub|
+|---|---|
+|B. Marto|@mart...|
+|M. Lea|@lea...|
 
 Enunciado: <https://docs.google.com/document/d/1Imga3QhLWMd0fb5n8EFBmQnS7HtxFJ2sXOLgzfSEX0k/edit#heading=h.bwfobs81j2q4>
 ___
